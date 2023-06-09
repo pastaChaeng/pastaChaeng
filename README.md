@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 🐥<br>🔭 I’m currently working on multiple unfinished projects<br>🌱 I’m currently learning python<br>📫 How to reach me: arlenejoy.nacion777@gmail.com<br>⚡ Fun fact: I'm lazy but, I want to be a billionaire~
+Hi there 🐥<br>🌱 I’m currently learning python<br>📫 How to reach me: arlenejoy.nacion777@gmail.com<br>⚡ Fun fact: I'm lazy but, I want to be a billionaire~
 
 
 ## 🌐 Socials:
