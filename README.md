@@ -8,3 +8,5 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xv5nok2gwohvrw2gazps6nlbqu)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0P35GU)
+
