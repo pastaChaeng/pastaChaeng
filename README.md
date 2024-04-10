@@ -35,5 +35,3 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xv5nok2gwohvrw2gazps6nlbqu)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cqmjkgq1w91z1rdhmao2jduoi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/31xv5nok2gwohvrw2gazps6nlbqu/spotify-github-profile)
-
