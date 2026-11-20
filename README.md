@@ -33,5 +33,4 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-pastaChaeng)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xv5nok2gwohvrw2gazps6nlbqu)
 
